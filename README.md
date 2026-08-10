@@ -17,23 +17,22 @@ Sou curioso, dedicado e gosto de resolver problemas — além de trabalhar bem e
 
 📊 Atualmente estudando
 
-- Excel (do básico ao intermediário)
-- Lógica de Programação
-- Fundamentos de Análise de Dados
+- SQL
+- Power BI
+- Python 
 
 ---
 
 🛠️ Ferramentas e Tecnologias
 
-- Excel
+- Excel (básico ao intermediário)
 - Git e GitHub
 - Lógica de Programação
 
 📌 Em breve:
 
-- Power BI
-- SQL
-- Python
+-
+-
 
 ---
 
